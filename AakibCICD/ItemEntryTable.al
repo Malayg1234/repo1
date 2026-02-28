@@ -1,4 +1,4 @@
-table 50001 "Item Entry"
+table 61000 "Item Entry"
 {
     Caption = 'Item Entry';
     DataClassification = CustomerContent;
