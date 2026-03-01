@@ -1,4 +1,4 @@
-permissionset 50000 GeneratedPermission
+permissionset 61000 GeneratedPermission
 {
     Assignable = true;
     Permissions = tabledata "Item Entry"=RIMD,
